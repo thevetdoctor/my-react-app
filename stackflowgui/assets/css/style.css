@@ -1,0 +1,36 @@
+body {
+	background-color: #234;
+	width: 60%;
+	margin: 5% auto;
+	font-size: 1.2em;
+	text-align: center;
+	color: #fff;
+	font-family: monospace;
+}
+
+.form {
+	 /*font-size: 0.7em;*/
+	 display: flex;
+	 margin: 5px;
+	 /*flex: column wrap;*/
+	 align-content: center;
+}
+
+
+.container {
+
+}
+
+#submit {
+	 color: #fff;
+	 background-color: #300;
+	 /*padding: 4px;*/
+}
+
+input {
+	font-family: monospace;
+	font-size: 1em;
+	border-radius: 5px;
+	margin: 5px;
+	padding: 6px;
+}
